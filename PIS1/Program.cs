@@ -11,6 +11,7 @@ namespace PIS1
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
+            Console.WriteLine("Radi");
         }
     }
 }
