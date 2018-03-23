@@ -8,5 +8,9 @@ namespace PIS1
 {
     class NewClass
     {
+        void praznametoda()
+        {
+
+        }
     }
 }
